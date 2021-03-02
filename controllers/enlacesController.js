@@ -63,7 +63,21 @@ exports.obtenerEnlace = async (req, res, next) => {
 
     // Si las descargas son iguales a 1 - Borrar la entrada y borrar el archivo
 
+    const { descargas, nombre } = enlace;
+
+    if(descargas === 1){
+        // Eliminar archivo
+        req.archivo = nombre;
+
+        // Eliminar de la base de datos
+        await Enlace.findOneAndRemove(req.params.url);
+        next();
+    } else {
+        enlace.descargas--;
+        await enlace.save
+        console.log('Aún hay descargas');
+    }
+
     // Si las descargas son mayores a 1 - Restar 1
     
-    console.log(enlace);
 }
