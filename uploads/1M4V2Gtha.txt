@@ -1,0 +1,144 @@
+---------------------------
+ysaias perez campos
+---------------------------
+Profesión: Ingeniero de sistemas 
+Nacionalidad: Venezolana 
+Fecha de nacimiento: 1986-05-9 
+Dirección: General gana 1063, Santiago, Santiago, Chile 
+Teléfono: +56976405204 
+Email: ysaiascampos@gmail.com 
+Enlace: https://www.linkedin.com/in/ysaias-perez-campos-50626116a/ 
+
+        
+//  Objetivo profesional //
+        
+Especializado en desarrollo de aplicaciones web desde 2012 con php solo y con el uso de framework como symfony 5 años de experiencia, laravel 4 año, zend 2 año o con cms como wordpress, Base de Datos Mysql, Postgresql, oracle, conocimiento en creación y integración de conectores o API soap y rest. Sistemas Operativos Libres y Privativo(GNU/Linux , Windows). Conocimientos en java, c++, python con Django, tecnologias como react.
+            
+//  Experiencia //
+        
+_ Desarrollador FullStack _
+Visiion Soluciones Tecnologicas
+Santiago, Chile
+2019-07 - Actualmente
+Desarrollo de aplicaciones web en php con laravel completas con un equipo de trabajo como front end y Back End para los diferente sistemas del Ministerio de Desarrollo Social y Familia - Gobierno de Chile. Sistema que entre los cuales se encuenta el www.registrosocial.gob.cl y rsh.ministeriodesarrollosocial.gob.cl entre otros.
+
+            
+_ Desarrollador de Sistemas _
+Advance tech investigation cel spa
+Santiago, Chile
+2019-05 - 2019-06
+Se realzaron trabajos para un sistema de supervisión de transporte para la empresa COPEC dicho sistema estaba en php con laravel lo cual el modulo que se trabajo fue para visualizar toda la traza que generaban los camiones en su recorrido.
+            
+_ Desarrollador de Sistemas _
+Experis .Manpowergroup
+lima, Peru
+2019-03 - 2019-04
+Se realizo un sistema de evaluacion y desempeño para la empresa condorlink y sus empresas asociadas hecho en php con laravel.
+Tambien se continue con el sistema de agencia de viajes.
+
+            
+_ Desarrollador de Sistemas _
+touchclick
+lima, Peru
+2017-12 - 2019-03
+Se realizo la creación de modulos de consumo de servicios diferentes empresa externas, creacios de servicios y adaptación del sistema para soporte de las diferentes servicios para la agencia de viajes condorlink y sus empresas asociadas hecho en php con zend.
+            
+_ Desarrollador de Sistemas _
+Oficina de Planificación del Sector Universitario
+Caracas, Venezuela
+2012-01 - 2017-11
+Se Realizaron diferente proyectos con distintas tecnologías como lo fueron:
+-Registro para los estudiantes de educacion media para optar a cupos universitarios hecho php con symfony.
+-Sistemas para ventas y entrega de productos para los trabajadores en symfony.
+-Sistema de encuestas para el registro de un call center de la institución en symfony.
+-Creación de módulos para gestión del la información de el portal institucional  en symfony.
+-Creacion de módulos para importación de libros para una biblioteca virtual en drupal.
+-Y otros proyectos realizados en python con django, otros con c++ y qt. 
+
+
+            
+//  Educación //
+        
+_ Ingeniero de Sistemas _
+Universidad Nacional Experimental Politécnica de las Fuerzas Armadas
+Lara, Venezuela     , 2005-01 - 2012-06
+
+            
+_ Técnico medio en Artes Visuales Mención Artes graficas _
+Escuela de Artes Plásticas “Martin Tovar y Tovar”
+Lara, Venezuela     , 2002 - 2004-07
+
+            
+//  Habilidades //
+        
+• Symfony
+            
+• laravel
+            
+• Zend
+            
+• php
+            
+• JavaScript
+            
+• Jquery
+            
+• React
+            
+• Django
+            
+• Webservice
+            
+• Mysql
+            
+• Postgresql
+            
+• Oracle
+            
+• Git
+            
+• SVN
+            
+• wordpress
+            
+• Drupal
+            
+//  Idiomas //
+        
+• Francés, Nivel avanzado 
+            
+//  Certificados y cursos //
+        
+Curso: Oracle Database 12c SQL Certificacion 1Z0-071, curso oficial. Udemy, febrero 2021.
+            
+Curso: React - La Guía Completa: Hooks Context Redux MERN +15 Apps. Udemy, diciembre 2020.
+            
+Curso: Aprende React JS. Udemy, Junio 2020.
+            
+Curso: SYMFONY 2. UNEWEB, Junio 2015.
+            
+Curso: LENGUAJE DE PROGRAMACIÓN C CNTI, Mayo 2014.
+            
+Curso: JAVASCRIPT CNTI, Mayo 2014.
+            
+Curso: POSTGRESQL CNTI, Mayo 2013.
+            
+Curso: Nivelación de java. Softrain, Junio 2013.
+            
+Curso: Android Basico. Softrain, Junio 2013.
+            
+Curso: Programación en Html y PHP . Peduca C.A.  Noviembre 2010.
+            
+Curso: Fundamentos de Java. Megameta C.A. y Sistema FinallyWeb C.A. Marzo 2010.
+            
+//  Referencias //
+        
+Ing. Jaimar Roca. Santiago, Chile. Cel: +51 971926075
+
+
+
+            
+Ing. Ivan Araya. Santiago, Chile. Cel: +56 989408502
+
+
+            

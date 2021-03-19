@@ -9,12 +9,23 @@ router.post('/',
     [
         check('nombre', 'Sube un archivo').not().isEmpty(),
         check('nombre_original', 'Sube un archivo').not().isEmpty()
-    ],
+    ],      
     auth,
     enlacesController.nuevoEnlace
 );
-router.get('/:url',
-    enlacesController.obtenerEnlace,
-    archivosController.eliminarArchivo
+
+router.get('/',
+    enlacesController.todosEnlaces
 );
+
+router.get('/:url',
+    enlacesController.tienePassword,
+    enlacesController.obtenerEnlace
+);
+
+router.post('/:url', 
+    enlacesController.verificarPassword,
+    enlacesController.obtenerEnlace
+);
+
 module.exports = router;

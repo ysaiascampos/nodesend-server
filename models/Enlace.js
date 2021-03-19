@@ -4,18 +4,18 @@ const Schema = mongoose.Schema;
 const enlacesSchema = new Schema({
     url: {
         type: String,
-        required: true,
+        required: true
     },
     nombre: {
         type: String,
-        required: true,
+        required: true
     },
     nombre_original: {
         type: String,
         required: true
     },
     descargas: {
-        type: Number,
+        type: Number, 
         default: 1
     },
     autor: {
@@ -24,7 +24,8 @@ const enlacesSchema = new Schema({
         default: null
     },
     password: {
-        type: String
+        type: String, 
+        default: null
     },
     creado: {
         type: Date,
